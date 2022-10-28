@@ -25,7 +25,7 @@
     }
     ?>
   
-  <img src="lujcaps.jfif" style="width: <?php echo $ImageRangeSize . '%'; ?>;border-color: <?php echo $border; ?>;border-width: 5px; border-style: solid;">
+  <img src="lujcaps.jpg" style="width: <?php echo $ImageRangeSize . '%'; ?>;border-color: <?php echo $border; ?>;border-width: 5px; border-style: solid;">
 
     </form>
 
